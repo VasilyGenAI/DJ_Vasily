@@ -85,7 +85,7 @@ export const translations = {
     disclaimerSub: "Dient nur zum visuellen Vergleich",
     backToCatalog: "Zurück zum Katalog",
     cartTitle: "Ihr Anfrage-Warenkorb",
-    successMsg: "Anfrage erfolgreich gesendet!",
+    successMsg: "Anfrage erfolgreich gesendet. Danke!",
     successSub: "Wir werden uns in Kürze mit Ihnen in Verbindung setzen, um die Details zu bestätigen.",
     cartEmpty: "Ihr Warenkorb ist leer",
     cartEmptySub: "Fügen Sie Equipment hinzu oder buchen Sie einen DJ aus unserem Katalog.",
